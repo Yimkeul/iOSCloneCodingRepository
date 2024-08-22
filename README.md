@@ -7,6 +7,7 @@ iOS앱 클론 코딩 링크 모음집
 3. [StockRank](https://github.com/Yimkeul/StockRank)
 4. [ChatList](https://github.com/Yimkeul/ChatList)
 5. [AppleFramework](https://github.com/Yimkeul/AppleFrameworks)
+6. [InstaSearchView](https://github.com/Yimkeul/InstaSearchView)
 
 ---
 ### 무신사 
