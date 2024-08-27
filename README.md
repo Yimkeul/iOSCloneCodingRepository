@@ -16,7 +16,7 @@ iOS 학습 모음집
 
 
 ---
-### 무신사 CloneCoding 
+### 무신사 CloneCoding (...ing)
 [Mushinsa](https://github.com/Yimkeul/MushinsaCloneCoding)
 
 ---
@@ -27,19 +27,5 @@ iOS 학습 모음집
 [UdemyFoler](https://github.com/Yimkeul/UdemyFolder)
 
 ---
-
-### SwiftUI 기반의 iOS 프로그래밍
-1. [ListNavDemo](https://github.com/Yimkeul/StudyListNavDemo)
-2. [ListAndNavigation](https://github.com/Yimkeul/StudyListAndNavigation)
-3. [ObjectControl](https://github.com/Yimkeul/StudyObjectControl)
-4. [EasyApp](https://github.com/Yimkeul/StudyEasyApp)
-5. [CustomView](https://github.com/Yimkeul/StudyCustomView)
-   
----
-
-### 샌드위치 주문 앱 CloneCoding 
-[OrderApp](https://github.com/Yimkeul/OrderApp)
-
-
 
 
