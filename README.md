@@ -27,6 +27,8 @@ iOS 학습 모음집
 [UdemyFoler](https://github.com/Yimkeul/UdemyFolder)
 
 ---
-### Swiftui와 Moya라이브러리를 사용한 api 통신 연습
+### Moya라이브러리를 사용한 api 통신 연습
 [MoyaTutorial]https://github.com/Yimkeul/iOS_Study_Repository/tree/main/MoyaTutorial)
 
+### firebase, kakao 로그인 구현 // plist는 private_firebase에 저장
+[KakaoLoginTutorial](https://github.com/Yimkeul/iOS_Study_Repository/tree/main/KakaoLoginTutorial)
