@@ -18,10 +18,11 @@ iOS 학습 모음집
 - CollectionViewDiffableDataSource & UICollectionViewCompositionalLayout
 9. [SpotifyPaywall](https://github.com/Yimkeul/iOS_Study_Repository/tree/main/FastCampusStudy/SpotifyPaywall)
 
-
----
 ### 무신사 CloneCoding (...ing)
 [Mushinsa](https://github.com/Yimkeul/MushinsaCloneCoding)
+
+### Infinity Carousel
+[InfinityBannerTutorial](https://github.com/Yimkeul/iOS_Study_Repository/tree/main/InfinityBannerTutorial)
 
 ---
 
@@ -30,7 +31,6 @@ iOS 학습 모음집
 ### 유데미 SwiftUI 강의
 [UdemyFoler](https://github.com/Yimkeul/iOS_Study_Repository/tree/main/UdemyFolder)
 
----
 ### Moya라이브러리를 사용한 api 통신 연습
 [MoyaTutorial](https://github.com/Yimkeul/iOS_Study_Repository/tree/main/MoyaTutorial)
 
