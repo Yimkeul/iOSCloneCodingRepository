@@ -15,7 +15,7 @@ iOS 학습 모음집
 | | [HeadSpaceFocus](https://github.com/Yimkeul/iOS_Study_Repository/tree/main/FastCampusStudy/HeadSpaceFocus) | CollectionViewDiffableDataSource & UICollectionViewCompositionalLayout |
 | | [SpotifyPaywall](https://github.com/Yimkeul/iOS_Study_Repository/tree/main/FastCampusStudy/SpotifyPaywall) | |
 | | [TossBenefitTab](https://github.com/Yimkeul/iOS_Study_Repository/tree/main/FastCampusStudy/TossBenefitTab) | Combine |
-| MUSINSA Clone Coding | [Mushinsa](https://github.com/Yimkeul/MushinsaCloneCoding) | (...ing) |
+| MUSINSA<br>Clone Coding | [Mushinsa](https://github.com/Yimkeul/MushinsaCloneCoding) | (...ing) |
 | Tutorial | [InfinityBannerTutorial](https://github.com/Yimkeul/iOS_Study_Repository/tree/main/InfinityBannerTutorial) | Infinity Carousel |
 
 ---
