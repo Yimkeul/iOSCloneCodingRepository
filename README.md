@@ -26,5 +26,6 @@ iOS 학습 모음집
 | UDemy Lec. | [UdemyFoler](https://github.com/Yimkeul/iOS_Study_Repository/tree/main/UdemyFolder) | |
 | Tutorial | [MoyaTutorial](https://github.com/Yimkeul/iOS_Study_Repository/tree/main/MoyaTutorial) | Moya라이브러리를 사용한 api 통신 연습 |
 | | [KakaoLoginTutorial](https://github.com/Yimkeul/iOS_Study_Repository/tree/main/KakaoLoginTutorial) | firebase, kakao 로그인 구현 |
+| | [AVFoundationTutorial](https://github.com/Yimkeul/iOS_Study_Repository/tree/main/AVFoundationTutorial) | AVFoundaton, mp3파일 재생, 제어센터 표시 |
 | Project | [RecommandMenu](https://github.com/Yimkeul/iOS_Study_Repository/tree/main/RecommandMenu) | 메뉴 추천 앱 |
 
